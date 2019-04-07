@@ -39,7 +39,7 @@ class Emojifier {
         if(faces.size() == 0){
             Toast.makeText(context, R.string.no_faces_message, Toast.LENGTH_SHORT).show();
         }
-        
+
         /* Release detector */
         detector.release();
     }

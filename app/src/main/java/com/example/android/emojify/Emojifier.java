@@ -193,7 +193,7 @@ class Emojifier {
 
         return resultBitmap;
     }
-    
+
     /* Enum for all possible emojis */
     private enum Emoji{
         SMILE,
